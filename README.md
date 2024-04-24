@@ -1,1 +1,1 @@
-Project done as part of the reinforcement learning course, CSE 525: Robotics. Here I create a baseline Actos-Critic algorithm to drive car in CARLA, and then improve it's performance using Adversarial Auto-Encoder for more robust state representation.
+Project done as part of the reinforcement learning course, CSE 525: Robotics. Here I create a baseline Actor-Critic algorithm to drive a car in CARLA, and then improve it's performance using Adversarial Auto-Encoder for more robust state representation.
